@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create homepage banner",
+      "details": "lorem",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make a marketing email",
+      "details": "lorem",
+      "complete": true
+    },
+    {
+      "title": "This is an edited stuff",
+      "details": "Lol kek lol",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "A new task",
+      "details": "Finish this one as soon as possible. The deadline is tomorrow",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}

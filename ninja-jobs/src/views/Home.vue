@@ -1,0 +1,15 @@
+<template>
+  <div class="home">
+    <h1>Homepage</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore dolores soluta, similique modi dolorum neque reprehenderit sunt velit eius voluptate, magnam doloribus, debitis accusantium repudiandae eveniet minima dicta autem vel ducimus. Odio accusantium nemo, facere corporis eaque a quos! Eum ex exercitationem a nihil, expedita sit iure id hic autem perspiciatis, vitae quasi voluptatem adipisci earum doloremque laboriosam debitis quas. Iste dicta ab molestias ullam repudiandae expedita quas itaque, blanditiis deleniti necessitatibus reiciendis voluptatem earum sint quis libero accusamus molestiae deserunt ea corrupti soluta modi delectus nobis enim debitis. Quasi maiores minima cumque velit, magnam laboriosam sed eaque error mollitia.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore dolores soluta, similique modi dolorum neque reprehenderit sunt velit eius voluptate, magnam doloribus, debitis accusantium repudiandae eveniet minima dicta autem vel ducimus. Odio accusantium nemo, facere corporis eaque a quos! Eum ex exercitationem a nihil, expedita sit iure id hic autem perspiciatis, vitae quasi voluptatem adipisci earum doloremque laboriosam debitis quas. Iste dicta ab molestias ullam repudiandae expedita quas itaque, blanditiis deleniti necessitatibus reiciendis voluptatem earum sint quis libero accusamus molestiae deserunt ea corrupti soluta modi delectus nobis enim debitis. Quasi maiores minima cumque velit, magnam laboriosam sed eaque error mollitia.</p>
+  </div>
+</template>
+
+<script>
+
+export default {
+  name: 'Home',
+  components: {  }
+}
+</script>

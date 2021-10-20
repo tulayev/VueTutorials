@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the new blog",
+      "body": "Lorem ipsum",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Top 5 CSS tips",
+      "body": "Some text goes here...",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "title": "A brand new post",
+      "body": "This post is for testing",
+      "tags": [
+        "test",
+        "test-post",
+        "blah-blah"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Bakugan: Evolutions Anime Debuts in Early 2022",
+      "body": "The Bakugan franchise is based on Spin Master and Sega Toys' combination of metal cards and marble-like magnetic toys that automatically transform into figures during gameplay. The franchise has been a bestseller in North America.\n\nCanadian toy and media company Spin Master announced a relaunch of the franchise in collaboration with TMS Entertainment and Corus Entertainment's Nelvana subsidiary in October 2018. The relaunch includes a toy line, the Bakugan Battle Planet anime, and \"additional short form content\" available online.",
+      "tags": [
+        "anime",
+        "bakugan",
+        "news"
+      ],
+      "id": 4
+    },
+    {
+      "title": "Yashahime: Princess Half-Demon - The Second Act",
+      "body": "If there's any one good thing I can say about Yashahime, it's that it at least comes by its “Feudal Fairy Tale” roots somewhat honestly. (Yes, I know, that was its parent series Inu Yasha. Indulge me.) While it'd be a bit of a stretch to say that these are good episodes, they do have some legitimate folkloric roots – not necessarily Japan-specific roots, but still. The most obvious for most viewers is that the Sea Snake Demon's story is very much of a piece with Hans Christian Andersen's The Little Mermaid, with a healthy dose of the Medusa myth thrown in for fun.",
+      "tags": [
+        "anime",
+        "yashahime",
+        "news"
+      ],
+      "id": 5
+    }
+  ]
+}
